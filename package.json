@@ -9,14 +9,15 @@
   "gxDependencies": [
     {
       "author": "jbenet",
-      "hash": "QmNgqJarToRiq2GBaPJhkmW4B5BxS5B74E1rkGvv2JoaTp",
+      "hash": "QmRWDav6mzWseLWeYfVd5fvUKiVe9xNH29YfMF438fG364",
       "name": "go-datastore",
-      "version": "0.2.1"
+      "version": "1.2.0"
     }
   ],
   "gxVersion": "0.8.0",
   "language": "go",
   "license": "",
   "name": "failstore",
-  "version": "1.0.1"
+  "version": "1.0.2"
 }
+
